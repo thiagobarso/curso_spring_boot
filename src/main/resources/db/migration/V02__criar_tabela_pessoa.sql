@@ -11,6 +11,13 @@ CREATE TABLE pessoa(
 	estado VARCHAR(200)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
 
-INSERT INTO pessoa (nome, ativo, logradouro,numero,complemento,bairro,cep,cidade,estado) values ('Thiago Barbosa Soares', true, 'Qs 04 Conjunto 10 Casa 06', '06','Escola Verde', 'RIACHO FUNDO', '71820-410', 'Brasília', 'Distrito Federal');
-INSERT INTO pessoa (nome, ativo, logradouro,numero,complemento,bairro,cep,cidade,estado) values ('Corina Soares Barbosa', true, 'Qs 04 Conjunto 10 Casa 06', '06','Escola Verde', 'RIACHO FUNDO', '71820-410', 'Brasília', 'Distrito Federal');
-INSERT INTO pessoa (nome, ativo, logradouro,numero,complemento,bairro,cep,cidade,estado) values ('Claudio Barbosa da Silva', true, 'Qs 04 Conjunto 10 Casa 06', '06','Escola Verde', 'RIACHO FUNDO', '71820-410', 'Brasília', 'Distrito Federal');
+INSERT INTO pessoa (nome, ativo, logradouro,numero,complemento,bairro,cep,cidade,estado) values ('Chaves', true, 'Vila do Chaves', '08','Vila do Chaves', 'México', '71820-410', 'Santa Maria do Araguaia', 'Goiás');
+INSERT INTO pessoa (nome, ativo, logradouro,numero,complemento,bairro,cep,cidade,estado) values ('Maria Chiquinha', true, 'Vila do Chaves', '08','Vila do Chaves', 'México', '71820-410', 'Santa Maria do Araguaia', 'Goiás');
+INSERT INTO pessoa (nome, ativo, logradouro,numero,complemento,bairro,cep,cidade,estado) values ('Seu Madruga', true, 'Vila do Chaves', '08','Vila do Chaves', 'México', '71820-410', 'Santa Maria do Araguaia', 'Goiás');
+INSERT INTO pessoa (nome, ativo, logradouro,numero,complemento,bairro,cep,cidade,estado) values ('Jaiminho', true, 'Vila do Chaves', '08','Vila do Chaves', 'México', '71820-410', 'Santa Maria do Araguaia', 'Goiás');
+INSERT INTO pessoa (nome, ativo, logradouro,numero,complemento,bairro,cep,cidade,estado) values ('Dona Florinda', true, 'Vila do Chaves', '08','Vila do Chaves', 'México', '71820-410', 'Santa Maria do Araguaia', 'Goiás');
+INSERT INTO pessoa (nome, ativo, logradouro,numero,complemento,bairro,cep,cidade,estado) values ('Professor Girafalles', true,  'Vila do Chaves', '08','Vila do Chaves', 'México', '71820-410', 'Santa Maria do Araguaia', 'Goiás');
+INSERT INTO pessoa (nome, ativo, logradouro,numero,complemento,bairro,cep,cidade,estado) values ('Popis', true, 'Vila do Chaves', '08','Vila do Chaves', 'México', '71820-410', 'Santa Maria do Araguaia', 'Goiás');
+INSERT INTO pessoa (nome, ativo, logradouro,numero,complemento,bairro,cep,cidade,estado) values ('Kiko', true, 'Vila do Chaves', '08','Vila do Chaves', 'México', '71820-410', 'Santa Maria do Araguaia', 'Goiás');
+INSERT INTO pessoa (nome, ativo, logradouro,numero,complemento,bairro,cep,cidade,estado) values ('Sr. Barriga', true, 'Vila do Chaves', '08','Vila do Chaves', 'México', '71820-410', 'Santa Maria do Araguaia', 'Goiás');
+INSERT INTO pessoa (nome, ativo, logradouro,numero,complemento,bairro,cep,cidade,estado) values ('Dona Clotilde', true, 'Vila do Chaves', '08','Vila do Chaves', 'México', '71820-410', 'Santa Maria do Araguaia', 'Goiás');
